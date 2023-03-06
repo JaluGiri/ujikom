@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T02:17:17.592Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="Mo39Es-c1ohlFwwU7Rjp" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T02:49:36.348Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="2SvpuMAhP4Jq5Mahgn4m" version="21.0.2" type="github">
   <diagram name="Page-1" id="k5TtoAxHwLgGCI7Mn37Q">
     <mxGraphModel dx="934" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,61 @@
             <mxPoint x="8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-20" target="zJ0ZjRPD3Ss3FHgnRhwl-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="420" />
+              <mxPoint x="265" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-50" value="Input Data&amp;nbsp;&lt;br&gt;Laundry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-49">
+          <mxGeometry x="-0.731" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="430" as="targetPoint" />
+            <mxPoint x="621" y="510" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="621" y="590" />
+              <mxPoint x="120" y="590" />
+              <mxPoint x="120" y="432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-56" value="Ambil Data Transaksi Laundry Masuk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-55">
+          <mxGeometry x="0.0518" y="1" relative="1" as="geometry">
+            <mxPoint x="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-20" target="zJ0ZjRPD3Ss3FHgnRhwl-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="634" />
+              <mxPoint x="310" y="634" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-59" value="Mengubah Status Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-58">
+          <mxGeometry x="0.4212" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.282;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-20" target="zJ0ZjRPD3Ss3FHgnRhwl-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="700" />
+              <mxPoint x="353" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-67" value="Input Data Pengambilan Laundry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-66">
+          <mxGeometry x="0.3791" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-20" value="karyawan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="380" width="90" height="50" as="geometry" />
         </mxCell>
@@ -109,13 +164,19 @@
             <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-22">
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="1071.1034314385777" as="targetPoint" />
+            <mxPoint x="430" y="880" as="targetPoint" />
+            <mxPoint x="560" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="820" y="388" />
-              <mxPoint x="820" y="1071" />
+              <mxPoint x="810" y="300" />
+              <mxPoint x="810" y="880" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-77" value="Data Karyawan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-33">
+          <mxGeometry x="0.7804" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-22" value="3&lt;br&gt;Data Karyawan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -147,6 +208,34 @@
         <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-32" value="Data Karyawan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-31">
           <mxGeometry x="0.3792" y="1" relative="1" as="geometry">
             <mxPoint x="-15" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-52" value="Detail Transaksi laundry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-51">
+          <mxGeometry x="0.2945" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-34" target="zJ0ZjRPD3Ss3FHgnRhwl-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="550" />
+              <mxPoint x="50" y="550" />
+              <mxPoint x="50" y="148" />
+              <mxPoint x="110" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-54" value="Informasi Data Laundry masuk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-53">
+          <mxGeometry x="-0.6221" y="2" relative="1" as="geometry">
+            <mxPoint x="16" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-34" value="4&lt;br&gt;Transaksi Masuk" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -210,14 +299,141 @@
         <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-43" value="konsumen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="400" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zJ0ZjRPD3Ss3FHgnRhwl-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="500" as="sourcePoint" />
-            <mxPoint x="700" y="990" as="targetPoint" />
+            <mxPoint x="430" y="870" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="500" />
+              <mxPoint x="700" y="842" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-76" value="Data Transaksi Laundry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-48">
+          <mxGeometry x="0.5652" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-61" value="Update Data Status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-60">
+          <mxGeometry x="-0.5226" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-57" target="zJ0ZjRPD3Ss3FHgnRhwl-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-64" value="Data Status Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-62">
+          <mxGeometry x="-0.5959" y="2" relative="1" as="geometry">
+            <mxPoint x="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-57" value="5&lt;br&gt;Perubahan Status" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-65" target="zJ0ZjRPD3Ss3FHgnRhwl-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-69" value="Data Pengambilan Laundry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-68">
+          <mxGeometry x="-0.5492" y="2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="507.7931371228448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-72" value="Update Data Status Pengambilan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-70">
+          <mxGeometry x="-0.6447" y="2" relative="1" as="geometry">
+            <mxPoint x="20" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-65" target="zJ0ZjRPD3Ss3FHgnRhwl-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="780" />
+              <mxPoint x="20" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-74" value="Informasi Data Laundry Keluar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-73">
+          <mxGeometry x="-0.5418" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-65" value="6&lt;br&gt;Pengambilan Laundry" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-75" target="zJ0ZjRPD3Ss3FHgnRhwl-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-83" value="Laporan Karyawan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-82">
+          <mxGeometry x="0.1131" y="-2" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-75" target="zJ0ZjRPD3Ss3FHgnRhwl-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="883" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-86" value="Laporan Transaksi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-84">
+          <mxGeometry x="0.0869" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-75" target="zJ0ZjRPD3Ss3FHgnRhwl-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="930" />
+              <mxPoint x="155" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-88" value="Laporan Penghasilan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-87">
+          <mxGeometry x="0.0524" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-75" value="7&lt;br&gt;Laporan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zJ0ZjRPD3Ss3FHgnRhwl-79" target="zJ0ZjRPD3Ss3FHgnRhwl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="820" />
+              <mxPoint x="830" y="820" />
+              <mxPoint x="830" y="160" />
+              <mxPoint x="390" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-81" value="Input Data Admin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zJ0ZjRPD3Ss3FHgnRhwl-80">
+          <mxGeometry x="-0.8392" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJ0ZjRPD3Ss3FHgnRhwl-79" value="Pemilik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="845" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
